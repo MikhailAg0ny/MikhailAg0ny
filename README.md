@@ -1,5 +1,3 @@
-# MeProfileReadMemwehehehe
- Me is gwapo
 <h1 align="center">Ello meh friend, me vibe koding en dumb perzooon</h1>
 
 ###
