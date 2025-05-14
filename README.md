@@ -1,8 +1,8 @@
-<h1 align="center">Ello meh friend, me vibe koding en dumb perzooon jk mwehehehe</h1>
+<h1 align="center">Hello there, My name is Mikhail and I like coding hehehe</h1>
 
 ###
 
-<h1 align="center">Me Iz Statzz</h1>
+<h1 align="center">My Stats</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">Me Is Progz Lengzz</h1>
+<h1 align="center">Programming Languages</h1>
 
 ###
 
