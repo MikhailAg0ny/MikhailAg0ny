@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, My name is Mikhail and I like coding hehehe</h1>
+<h1 align="center">Hello there, My name is Mikhail and I like coding</h1>
 
 ###
 
