@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Mikhail</h1>
 <h3 align="center">A developer specializing in creating dynamic web and mobile experiences.</h3>
-###
 
 <h1 align="center">Coding Journey & Statistics</h1>
 
