@@ -1,16 +1,6 @@
 <h1 align="center">Hello, I'm Mikhail</h1>
 <h3 align="center">A developer specializing in creating dynamic web and mobile experiences.</h3>
 
-<h1 align="center">Coding Journey & Statistics</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikhailAg0ny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MikhailAg0ny&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikhailAg0ny&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <h1 align="center">Tech Stack</h1>
@@ -55,6 +45,15 @@
 </div>
 
 ###
+
+<h1 align="center">Coding Journey & Statistics</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikhailAg0ny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MikhailAg0ny&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikhailAg0ny&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
