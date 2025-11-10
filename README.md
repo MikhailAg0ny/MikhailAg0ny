@@ -1,5 +1,11 @@
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAybXBlY2ttcXJiMHlnbjF2YnptMjB1MnZvczAzdW50dTVyZWlxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SJle9EuvPEb16/giphy.gif" alt="Ambient Landscape Background" width="50%" />
+</div>
+
+###
+
 <h1 align="center">Hello, I'm Mikhail</h1>
-<h3 align="center">A developer specializing in creating dynamic web and mobile experiences.</h3>
+<h3 align="center">A developer specializing in creating dynamic web, game and mobile experiences.</h3>
 
 ###
 
@@ -8,40 +14,48 @@
 ###
 
 <div align="center">
-  <h3>Frontend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  
-  <br>
-  <h3>Backend</h3>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  
-  <br>
-  <h3>Mobile Development</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" height="40" alt="android studio logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.freepik.com/free-icon/html_318-788932.jpg" height="40" alt="html logo"  />
+  <img width="12" />
   <br>
-  <h3>Databases & BaaS</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/960px-Godot_icon.svg.png?20170822201738" height="40" alt="godot engine logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn2.futurepedia.io/2025-04-30T17-10-20.890Z-EAut2MPS5absm7BJwy6uWTEUTmjj_f4oK.png?w=256" height="40" alt="AI Windsurf logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  
-  <br>
-  <h3>Other Languages & Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/349330/css3.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  
+</div>
+
+###
+
+<h1 align="center">Currently Learning</h1>
+<div align="center">
+<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="40" alt="css logo"  />
+<h2 align ='center'>Nextjs</h2>
 </div>
 
 ###
