@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAybXBlY2ttcXJiMHlnbjF2YnptMjB1MnZvczAzdW50dTVyZWlxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SJle9EuvPEb16/giphy.gif" alt="Ambient Landscape Background" width="50%" />
+  <img src="https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif" alt="Ambient Landscape Background" width="90%" />
 </div>
 
 ###
